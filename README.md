@@ -1,2 +1,6 @@
 # Laser_Tracking
-lasertracking
+A class to track the laser pointer movement
+
+#Technologies
+OpenCV
+Python
